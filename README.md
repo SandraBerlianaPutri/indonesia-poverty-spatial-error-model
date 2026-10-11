@@ -16,7 +16,6 @@ The project was prepared for **Jambore Statistika XIV**, organized by HIMASTA, M
 - **Response variable:** Poverty measure used in the analysis.
 - **Explanatory variables:** Regional socioeconomic indicators included in the original dataset.
 - **Spatial information:** Regional data and spatial relationships used to construct the spatial weights matrix.
-- **Data and project files:** Available through the Google Drive folder linked below.
 
 ## Methods
 - **Exploratory Data Analysis:** Examined the distribution and regional variation of poverty-related indicators.
